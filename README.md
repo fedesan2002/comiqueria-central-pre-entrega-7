@@ -15,5 +15,3 @@ El catálogo se genera dinámicamente desde un array de objetos de la clase
 - Eliminar títulos del catálogo.
 - Recibir feedback visual dentro de la página para cada acción.
 
-No se utilizan `prompt`, `alert` ni mensajes por consola: todas las
-interacciones se resuelven mediante el DOM.
