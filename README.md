@@ -1,4 +1,4 @@
-# Comiquería Central - DOM y eventos
+# Comiquería Central 7
 
 Proyecto realizado para la pre-entrega de JavaScript sobre interfaz dinámica,
 manipulación del DOM y eventos.
